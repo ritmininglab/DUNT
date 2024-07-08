@@ -14,8 +14,7 @@ pip install -r requirements.txt
 
 The code is stored in the folder code.
 
-To download the example noisy data of cub, please use the link: https://drive.google.com/file/d/10dZXw83fgFVrf_MQbum9rhvA2hWax54G/view?usp=sharing
-and store it in the folder few_data/cub.
+To download data of cub (Take CUB as an example), and store it in the folder few_data/cub.
 
 To run the algorithm, change the path to the current directory in the command window, and run the train.py file:
 
